@@ -4,3 +4,18 @@ body{
 .sec{
     color: aliceblue;
 }
+
+/* nav */
+
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+    gap:4%;
+    padding:.5%;
+
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
